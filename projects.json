@@ -3,14 +3,15 @@
         "name": "Memory-Match",
         "live": "https://shadowtorn33.github.io/Memory-Match/",
         "git": "https://github.com/ShadowTorn33/Memory-Match",
-        "image": "public/Memory-Match.png"
+        "image": "/Memory-Match.png"
     },
     {
         "name": "All Sports",
         "live": "https://imaginative-pothos-6c914f.netlify.app/",
         "git": "https://github.com/ShadowTorn33",
-        "image": "public/AllSports.png"
-    },{
+        "image": "/AllSports.png"
+    },
+    {
         "name": "Abnb",
         "live": "https://jade-heliotrope-86f957.netlify.app/",
         "git": "https://github.com/ShadowTorn33/airbnb-clone",
