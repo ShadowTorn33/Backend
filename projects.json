@@ -3,13 +3,13 @@
         "name": "Memory-Match",
         "live": "https://shadowtorn33.github.io/Memory-Match/",
         "git": "https://github.com/ShadowTorn33/Memory-Match",
-        "image": "/Memory-Match.png"
+        "image": "/backend/Memory-Match.png"
     },
     {
         "name": "All Sports",
         "live": "https://imaginative-pothos-6c914f.netlify.app/",
         "git": "https://github.com/ShadowTorn33",
-        "image": "/AllSports.png"
+        "image": "/backend/AllSports.png"
     },
     {
         "name": "Abnb",
